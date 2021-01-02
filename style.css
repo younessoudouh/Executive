@@ -116,7 +116,7 @@ h1 {
 }
 
 .header .container .title h1 span {
-    color: rgba(113, 124, 255, 1);
+    color: rgb(113, 124, 255);
 }
 
 .header .container .title p {
@@ -134,7 +134,7 @@ h1 {
 }
 
 .header .container .title .icons i:first-child {
-    color: rgba(60, 91, 154, 1);
+    color: rgb(60, 91, 154);
 
 }
 
@@ -212,11 +212,11 @@ h1 {
 }
 
 .content .width .home {
-    background: rgb(92, 150, 255, 1);
+    background: rgb(92, 150, 255);
 }
 
 .content .width .airplane{
-    background: rgb(250, 112, 108, 1);
+    background: rgb(250, 112, 108);
 }
 
 .our-services .container .content button {
@@ -426,16 +426,12 @@ h1 {
 .dream {
     padding: 92px 0 85px 0;
     overflow: hidden;
-    background: rgba(250, 250, 250, 1);
+    background: rgb(250, 250, 250);
 }
 
 .dream .title {
     display: flex;
     justify-content: space-between;
-}
-
-.dream .container button {
-    
 }
 
 /* End Dream */
@@ -470,6 +466,7 @@ h1 {
 .footer .container .copyright {
     color: #EEE;
     margin-top: 10px;
+    font-size: 18px;
 }
 
 .footer .container .info .icons {
@@ -518,7 +515,7 @@ h1 {
     padding-bottom: 25px;
     font-size: 37px;
     color: #373737;
-    font-weight: 700px;
+    font-weight: 700;
 }
 
 .my-icon {
@@ -530,7 +527,7 @@ h1 {
     font-size: 22px;
     line-height: 38px;
     color: #7D7D7D;
-    font-weight: 400px;
+    font-weight: 400;
 }
 
 
@@ -549,14 +546,14 @@ h1 {
 }
 
 .fix-slider ul .active {
-    background: rgba(113, 124, 255, 1);
+    background: rgb(66, 72, 131);
 }
 
 .small-paragraph {
     font-size: 16px;
     line-height: 28px;
     color: rgba(55, 71, 79, 0.7);
-    font-weight: 400px;
+    font-weight: 400;
 }
 
 .secondary-title {
@@ -564,6 +561,7 @@ h1 {
     font-size: 24px;
     line-height: 37px;
     margin-bottom: 9px;
+    font-weight: 700;
 }
 
 .main-blog {
