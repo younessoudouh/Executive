@@ -484,6 +484,16 @@ h1 {
 
 /* End Footer */
 
+/* Start media */
+
+@media (max-width: 1200px) {
+    .container{
+        padding: 15px;
+    }
+}
+
+/* End Media */
+
 /* Start My Framework */
 
 .container {
